@@ -1,7 +1,7 @@
 idade= 0 
 try:  
   while idade <= 0:
-   nome= input("digitr o seu nome:")
+   nome= input("digite o seu nome:")
    email= input("digite o seu email:")
    idade= int(input("informe a  sua idade:"))
     
@@ -14,4 +14,5 @@ try:
    cadastro.write( nome + "|" + email + "|" + idade + "\n" )
    
 except:
-  print("inválido!!")
+  print("inválido!!!!!!!!!!!!!!!!!")
+
